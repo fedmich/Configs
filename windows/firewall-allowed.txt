@@ -11,3 +11,6 @@ F:\Apps\Browser\FirefoxDeveloper\firefox.exe
 
 
 F:\Apps\Dev\HeidiSQL\heidisql.exe
+
+F:\apps\tools\Curl-2\curl.exe
+C:\Windows\System32\lsass.exe
