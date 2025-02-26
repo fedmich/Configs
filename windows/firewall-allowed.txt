@@ -8,3 +8,6 @@ F:\Apps\Browser\Chromium-120\chrome-dev.exe
 F:\Apps\Browser\Vivaldi\Application\vivaldi.exe
 
 F:\Apps\Browser\FirefoxDeveloper\firefox.exe
+
+
+F:\Apps\Dev\HeidiSQL\heidisql.exe
