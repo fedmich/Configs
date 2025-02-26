@@ -1,1 +1,10 @@
 F:\Apps\PortableApps\PortableApps\VLCPortable\App\vlc\vlc.exe
+
+F:\Apps\Browser\GoogleChromePortable\App\Chrome-bin\chrome.exe
+F:\Apps\Browser\Thorium\BIN\thorium.exe
+F:\Apps\Browser\Brave\brave.exe
+F:\Apps\Browser\Slimjet\slimjet.exe
+F:\Apps\Browser\Chromium-120\chrome-dev.exe
+F:\Apps\Browser\Vivaldi\Application\vivaldi.exe
+
+F:\Apps\Browser\FirefoxDeveloper\firefox.exe
